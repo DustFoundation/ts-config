@@ -3,7 +3,6 @@
     "target": "es2020",
     "module": "commonjs",
     "moduleResolution": "node",
-    "outDir": "./dist",
     "newLine": "lf",
     "strict": true,
     "strictNullChecks": true,
