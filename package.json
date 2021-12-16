@@ -1,0 +1,11 @@
+{
+  "name": "@dustfoundation/ts-config",
+  "version": "1.0.0",
+  "description": "Shared TypeScript config for Dust Foundation projects",
+  "repository": "https://github.com/DustFoundation/ts-config",
+  "main": "tsconfig.json",
+  "files": ["tsconfig.json"],
+  "engines": {
+    "node": ">=14"
+  }
+}
