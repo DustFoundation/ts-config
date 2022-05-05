@@ -7,7 +7,7 @@ Shared **TypeScript config** for Dust Foundation projects.
 Install via npm:
 
 ```sh
-npm install --save-dev github:DustFoundation/ts-config#2.1.0
+npm install --save-dev @dustfoundation/ts-config
 ```
 
 ---
