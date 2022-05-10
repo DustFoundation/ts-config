@@ -1,6 +1,6 @@
 {
   "name": "@dustfoundation/ts-config",
-  "version": "2.3.1",
+  "version": "2.4.0",
   "description": "Shared TypeScript config for Dust Foundation projects",
   "repository": "https://github.com/DustFoundation/ts-config",
   "main": "tsconfig.json",
