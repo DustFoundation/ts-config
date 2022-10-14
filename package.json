@@ -1,7 +1,7 @@
 {
   "name": "@dustfoundation/ts-config",
   "version": "2.5.0",
-  "description": "Shared TypeScript config for Dust Foundation projects",
+  "description": "Node.js shared config for TypeScript",
   "repository": "https://github.com/DustFoundation/ts-config",
   "main": "tsconfig.json",
   "files": [
